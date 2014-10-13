@@ -2,7 +2,7 @@
 /**
  * Express.class.php 快递查询类 v1.0
  *
- * @copyright        福星高照
+ * @copyright        hioop
  * @license          http://www.hioop.net
  * @lastmodify       2014-10-13
  */
